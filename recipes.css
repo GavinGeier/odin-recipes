@@ -1,0 +1,35 @@
+.title {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    Background-color: Black;
+}
+
+.subtitle {
+    background-color: rgb(255,0,0);
+}
+
+.background,
+.font {
+    background-color: rgb(30, 202, 233);
+    font-family: cursive, times new roman, serif;
+}
+
+.intro{
+    text-align: center;
+    font-size: 20px;
+}
+
+.reference-links{ 
+    a:link { 
+        color: red;
+    }
+
+    a:visited {
+        color: green;
+    }
+
+    a:hover {
+        color: pink;
+    }
+}
